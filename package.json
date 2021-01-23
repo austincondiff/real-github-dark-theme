@@ -1,0 +1,51 @@
+{
+	"name": "real-github-dark-theme",
+	"displayName": "Real GitHub Dark Theme",
+	"description": "Real GitHub dark theme for VS Code",
+	"version": "1.0.0",
+	"preview": true,
+	"publisher": "GitHub",
+	"license": "MIT",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1b1f23",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ergenekonyigit/real-github-dark-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/primer/real-github-dark-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"real",
+		"github",
+		"dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Real GitHub Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@primer/primitives": "0.0.0-2020111574337",
+		"chroma-js": "^2.1.0",
+		"nodemon": "^2.0.3"
+	},
+	"scripts": {
+		"start": "nodemon --watch src src/index.js",
+		"build": "node src/index.js"
+	}
+}
