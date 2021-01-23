@@ -4,7 +4,7 @@
 	"description": "Real GitHub dark theme for VS Code",
 	"version": "1.0.0",
 	"preview": true,
-	"publisher": "GitHub",
+	"publisher": "ergenekonyigit",
 	"license": "MIT",
 	"icon": "icon.png",
 	"galleryBanner": {
