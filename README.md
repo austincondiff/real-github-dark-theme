@@ -2,7 +2,7 @@
 
 This repo fork of official [Github VS Code](https://github.com/primer/github-vscode-theme) v2.0.1 theme.
 
-![Real GitHub Dark Theme](./image.png)
+![Real GitHub Dark Theme](https://raw.githubusercontent.com/ergenekonyigit/real-github-dark-theme/main/image.png?token=ABWH36BLP6EUBLRLHJETDSLACVU7G)
 
 ## Install
 
