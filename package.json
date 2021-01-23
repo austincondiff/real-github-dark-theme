@@ -2,7 +2,7 @@
 	"name": "real-github-dark-theme",
 	"displayName": "Real GitHub Dark Theme",
 	"description": "Real GitHub dark theme for VS Code",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"preview": true,
 	"publisher": "ergenekonyigit",
 	"license": "MIT",
